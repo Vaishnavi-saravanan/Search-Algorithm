@@ -32,8 +32,8 @@ i)	#Use a linear search method to match the item in a list.
 ```python
 ''' 
 Program for linear search method to match the item in a list
-Developed by:JAYABHARATHI . S
-RegisterNumber: 22008485
+Developed by:VAISHNAVI . S
+RegisterNumber: 22009040
 '''
 def linearSearch(array,n,k):
     for i in range(0, n):
@@ -59,8 +59,8 @@ ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```python
 ''' 
 Program to find the element in a list using Binary Search(Iterative Method)..
-Developed by:JAYABHARATHI . S
-RegisterNumber: 22008485
+Developed by:VAISHNAVI. S
+RegisterNumber: 22009040
 '''
 def binarySearchIter(array, k, low, high):
     while low <= high:
@@ -90,8 +90,8 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 ```python
 '''
 Program to find the element in a list using Binary Search (recursive Method).
-Developed by: your name
-RegisterNumber: 
+Developed by: VAISHNAVI.S
+RegisterNumber: 22009040
 '''
 def BinarySearch(arr, k, low, high):
     if high >= low:
@@ -118,13 +118,13 @@ else:
     print("Element found at index: ", result)
 
 ```
-##  Input and Output:
-![](./linsearch.png)
-![](./binaryiter.png)
-![](./binaryiter1.png)
-![](./binaryrec.png)
-![](./binaryrec2.png)
-
+## Output:
+![](./output1.png)
+![](./output2.png)
+![](./output3.png)
+![](./output4.png)
+![](./output5.png)
+![](./output6.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
